@@ -1,0 +1,6 @@
+﻿id,customerName,customerRef,addressLine1,addressLine2,town,county,country,postcode
+101,James Johnson,1000-200,10 Station Road,Vauxhall,Tucks,Middlesex,England,Tw12 9AA
+102,Ann Pendergras,1000-201,24 Cadbury Road,Tampa,Aldershot,Surrey,England,GU27 1KK
+103,Mike Savage,1000-202,11 Jakes Street,Sunbury,Barking,Essex,England,E15 2GR
+104,Tim Penny,1000-203,101 Allison Drive,Hampton,Bracknell,Cornwall,England,CK27 1RF
+105,Harrison Williams,1000-204,234 School Road,Hampton Wick,Bridge,Cheshire,,KW20 622

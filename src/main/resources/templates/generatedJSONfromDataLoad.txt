@@ -1,0 +1,68 @@
+[
+    {
+        "id": null,
+        "customerName": "customerName",
+        "customerRef": "customerRef",
+        "addressLine1": "addressLine1",
+        "addressLine2": "addressLine2",
+        "town": "town",
+        "county": "county",
+        "country": "country",
+        "postcode": "postcode"
+    },
+    {
+        "id": null,
+        "customerName": "James Johnson",
+        "customerRef": "1000-200",
+        "addressLine1": "10 Station Road",
+        "addressLine2": "Vauxhall",
+        "town": "Tucks",
+        "county": "Middlesex",
+        "country": "England",
+        "postcode": "Tw12 9AA"
+    },
+    {
+        "id": null,
+        "customerName": "Ann Pendergras",
+        "customerRef": "1000-201",
+        "addressLine1": "24 Cadbury Road",
+        "addressLine2": "Tampa",
+        "town": "Aldershot",
+        "county": "Surrey",
+        "country": "England",
+        "postcode": "GU27 1KK"
+    },
+    {
+        "id": null,
+        "customerName": "Mike Savage",
+        "customerRef": "1000-202",
+        "addressLine1": "11 Jakes Street",
+        "addressLine2": "Sunbury",
+        "town": "Barking",
+        "county": "Essex",
+        "country": "England",
+        "postcode": "E15 2GR"
+    },
+    {
+        "id": null,
+        "customerName": "Tim Penny",
+        "customerRef": "1000-203",
+        "addressLine1": "101 Allison Drive",
+        "addressLine2": "Hampton",
+        "town": "Bracknell",
+        "county": "Cornwall",
+        "country": "England",
+        "postcode": "CK27 1RF"
+    },
+    {
+        "id": null,
+        "customerName": "Harrison Williams",
+        "customerRef": "1000-204",
+        "addressLine1": "234 School Road",
+        "addressLine2": "Hampton Wick",
+        "town": "Bridge",
+        "county": "Cheshire",
+        "country": "",
+        "postcode": "KW20 622"
+    }
+]
